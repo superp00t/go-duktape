@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"gopkg.in/olebedev/go-duktape.v2"
+	duktape "github.com/superp00t/go-duktape"
 )
 
 func main() {
